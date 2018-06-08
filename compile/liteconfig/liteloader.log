@@ -1,0 +1,347 @@
+[00:02:16] [main/INFO]: LiteLoader 1.12.2 starting up...
+[00:02:16] [main/INFO]: Active Pack: 1.12.2-SNAPSHOT-r4CC2BB0-b4-4
+[00:02:16] [main/INFO]: Java reports OS="windows 10"
+[00:02:16] [main/INFO]: Adding supported mod class prefix 'LiteMod'
+[00:02:16] [main/INFO]: Enumerating class path...
+[00:02:16] [main/INFO]: Class path separator=";"
+[00:02:16] [main/INFO]: Class path entries=(
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/jars/NewLaunch.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/com/mojang/patchy/1.1/patchy-1.1.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/com/google/guava/guava/21.0/guava-21.0.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/com/mojang/realms/1.10.21/realms-1.10.21.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/net/minecraftforge/forge/1.12.2-14.23.4.2705/forge-1.12.2-14.23.4.2705-universal.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/jline/jline/2.13/jline-2.13.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/com/mumfrey/liteloader/1.12.2-SNAPSHOT/liteloader-1.12.2-SNAPSHOT.jar
+   classpathEntry=C:/Users/cyberpwn/Documents/development/multimc/libraries/com/mojang/minecraft/1.12.2/minecraft-1.12.2-client.jar
+)
+[00:02:16] [main/INFO]: Registering discovery module EnumeratorModuleClassPath: [<Java Class Path>]
+[00:02:16] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods]
+[00:02:16] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\1.12.2]
+[00:02:16] [main/INFO]: Registering enumerator plugin DefaultEnumeratorPlugin: [com.mumfrey.liteloader.core.api.DefaultEnumeratorPlugin@f627d13]
+[00:02:16] [main/INFO]: Discovering valid mod files in folder C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'AbyssalCraft-1.12.2-1.9.4.9.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\AbyssalCraft-1.12.2-1.9.4.9.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'ActuallyAdditions-1.12.2-r135.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\ActuallyAdditions-1.12.2-r135.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'AdvancedRocketry-1.12.2-1.4.0-84-universal.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\AdvancedRocketry-1.12.2-1.4.0-84-universal.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'ae2stuff-0.7.0.4-mc1.12.2.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\ae2stuff-0.7.0.4-mc1.12.2.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'appliedenergistics2-rv5-stable-11.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\appliedenergistics2-rv5-stable-11.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'astralsorcery-1.12.2-1.8.10.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\astralsorcery-1.12.2-1.8.10.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'Baubles-1.12-1.5.2.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\Baubles-1.12-1.5.2.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'bdlib-1.14.3.12-mc1.12.2.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\bdlib-1.14.3.12-mc1.12.2.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'BiomesOPlenty-1.12.2-7.0.1.2391-universal.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\BiomesOPlenty-1.12.2-7.0.1.2391-universal.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'BloodMagic-1.12.2-2.2.12-97.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\BloodMagic-1.12.2-2.2.12-97.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'BrandonsCore-1.12-2.4.2.157-universal.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\BrandonsCore-1.12-2.4.2.157-universal.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'Chisel-MC1.12.2-0.2.0.31.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\Chisel-MC1.12.2-0.2.0.31.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'CodeChickenLib-1.12.2-3.1.8.341-universal.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\CodeChickenLib-1.12.2-3.1.8.341-universal.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'CoFHCore-1.12.2-4.5.2.19-universal.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\CoFHCore-1.12.2-4.5.2.19-universal.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'CoFHWorld-1.12.2-1.2.0.5-universal.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\CoFHWorld-1.12.2-1.2.0.5-universal.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'ComputerCraft1.80pr1.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\ComputerCraft1.80pr1.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'Draconic-Evolution-1.12-2.3.11.290-universal.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\Draconic-Evolution-1.12-2.3.11.290-universal.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'DynamicSurroundings-1.12.2-3.4.9.13.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\DynamicSurroundings-1.12.2-3.4.9.13.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'DynamicTrees-1.12.2-0.7.7e.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\DynamicTrees-1.12.2-0.7.7e.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'DynamicTreesBOP-1.12.2-1.1d.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\DynamicTreesBOP-1.12.2-1.1d.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'DynamicTreesTC-1.12.2-0.1b.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\DynamicTreesTC-1.12.2-0.1b.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'EnderCore-1.12.2-0.5.30.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\EnderCore-1.12.2-0.5.30.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'EnderIO-1.12.2-5.0.26.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\EnderIO-1.12.2-5.0.26.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'ExtraCells-1.12.2-2.5.13a58.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\ExtraCells-1.12.2-2.5.13a58.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'ExtremeReactors-1.12.2-0.4.5.49.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\ExtremeReactors-1.12.2-0.4.5.49.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'Ferdinand's+Flowers-1.10.1b-1.12.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\Ferdinand's+Flowers-1.10.1b-1.12.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'fluxnetworks-1.12.2-3.0.11.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\fluxnetworks-1.12.2-3.0.11.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'foamfix-0.9.9.1-1.12.2-anarchy.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\foamfix-0.9.9.1-1.12.2-anarchy.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'ForgeMultipart-1.12.2-2.4.2.58-universal.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\ForgeMultipart-1.12.2-2.4.2.58-universal.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'Guide-API-1.12-2.1.5-60.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\Guide-API-1.12-2.1.5-60.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'ImmersiveEngineering-0.12-82.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\ImmersiveEngineering-0.12-82.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'immersivepetroleum-1.12.2-1.1.9.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\immersivepetroleum-1.12.2-1.1.9.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'industrialcraft-2-2.8.83-ex112.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\industrialcraft-2-2.8.83-ex112.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'jei_1.12.2-4.9.2.196.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\jei_1.12.2-4.9.2.196.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'journeymap-1.12.2-5.5.2.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\journeymap-1.12.2-5.5.2.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'LibVulpes-1.12.2-0.2.8-32-universal.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\LibVulpes-1.12.2-0.2.8-32-universal.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'liteloader-1.12.2-SNAPSHOT-release.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\liteloader-1.12.2-SNAPSHOT-release.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'Mantle-1.12-1.3.2.24.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\Mantle-1.12-1.3.2.24.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'mcjtylib-1.12-3.0.0.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\mcjtylib-1.12-3.0.0.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'mobends-0.24_for_MC-1.12.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\mobends-0.24_for_MC-1.12.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'MobGrindingUtils-0.3.6.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\MobGrindingUtils-0.3.6.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'MrTJPCore-1.12.2-2.1.2.34-universal.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\MrTJPCore-1.12.2-2.1.2.34-universal.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'naturalnetherportals-1.2.0-mc1.12.x.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\naturalnetherportals-1.2.0-mc1.12.x.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'OptiFine.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\OptiFine.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'OptiFine_1.12.2_HD_U_D3.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\OptiFine_1.12.2_HD_U_D3.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'pneumaticcraft-repressurized-1.12.2-0.6.6-192.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\pneumaticcraft-repressurized-1.12.2-0.6.6-192.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'ProjectRed-1.12.2-4.9.0.86-Base.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\ProjectRed-1.12.2-4.9.0.86-Base.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'ProjectRed-1.12.2-4.9.0.86-compat.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\ProjectRed-1.12.2-4.9.0.86-compat.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'ProjectRed-1.12.2-4.9.0.86-fabrication.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\ProjectRed-1.12.2-4.9.0.86-fabrication.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'ProjectRed-1.12.2-4.9.0.86-integration.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\ProjectRed-1.12.2-4.9.0.86-integration.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'ProjectRed-1.12.2-4.9.0.86-lighting.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\ProjectRed-1.12.2-4.9.0.86-lighting.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'ProjectRed-1.12.2-4.9.0.86-mechanical.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\ProjectRed-1.12.2-4.9.0.86-mechanical.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'ProjectRed-1.12.2-4.9.0.86-world.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\ProjectRed-1.12.2-4.9.0.86-world.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'RedstoneFlux-1.12-2.0.2.3-universal.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\RedstoneFlux-1.12-2.0.2.3-universal.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'rftools-1.12-7.51.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\rftools-1.12-7.51.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'rftoolsdim-1.12-5.60.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\rftoolsdim-1.12-5.60.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'sonarcore-1.12.2-5.0.11.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\sonarcore-1.12.2-5.0.11.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'SoundFilters-0.10_for_1.12.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\SoundFilters-0.10_for_1.12.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'TConstruct-1.12.2-2.10.1.84.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\TConstruct-1.12.2-2.10.1.84.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'Thaumcraft-1.12.2-6.1.BETA16.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\Thaumcraft-1.12.2-6.1.BETA16.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'The+Beneath-1.12.2-1.4.1.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\The+Beneath-1.12.2-1.4.1.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'ThermalDynamics-1.12.2-2.5.1.14-universal.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\ThermalDynamics-1.12.2-2.5.1.14-universal.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'ThermalExpansion-1.12.2-5.5.0.29-universal.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\ThermalExpansion-1.12.2-5.5.0.29-universal.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'ThermalFoundation-1.12.2-2.5.0.19-universal.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\ThermalFoundation-1.12.2-2.5.0.19-universal.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'twilightforest-1.12.2-3.7.424-universal.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\twilightforest-1.12.2-3.7.424-universal.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'Wawla-1.12.2-2.5.257.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\Wawla-1.12.2-2.5.257.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'zerocore-1.12-0.1.2.2.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\zerocore-1.12-0.1.2.2.jar
+[00:02:16] [main/INFO]: Inspecting jar metadata in '[1.12] RPG-HUD-3.6.6.2.jar'
+[00:02:16] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\[1.12] RPG-HUD-3.6.6.2.jar
+[00:02:16] [main/INFO]: Discovering valid mod files in folder C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\1.12.2
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'ChickenASM-1.12-1.0.2.7.jar'
+[00:02:16] [main/INFO]: Baking listener list for EnumerationObserver with 1 listeners
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'lib-mnmutils-1.3.1-mc1.11.2.litemod'
+[00:02:16] [main/INFO]: Not adding invalid or version-mismatched mod file: C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\1.12.2\lib-mnmutils-1.3.1-mc1.11.2.litemod
+[00:02:16] [main/INFO]: Inspecting jar metadata in 'mod-tabbychat-2.3.4-mc1.12.2.litemod'
+[00:02:16] [main/INFO]: Considering valid mod file: C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\1.12.2\mod-tabbychat-2.3.4-mc1.12.2.litemod
+[00:02:16] [main/INFO]: Inspecting jar metadata in '[edit]mod-gammabright-3.7-mc1.12.1.litemod'
+[00:02:16] [main/INFO]: Considering valid mod file: C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\1.12.2\[edit]mod-gammabright-3.7-mc1.12.1.litemod
+[00:02:16] [main/INFO]: Discovering tweaks on class path...
+[00:02:16] [main/INFO]: Registering discovered mod files in folder C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods
+[00:02:16] [main/INFO]: Adding newest valid mod file 'C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\1.12.2\mod-tabbychat-2.3.4-mc1.12.2.litemod' at revision 320.0000
+[00:02:16] [main/INFO]: Adding newest valid mod file 'C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\1.12.2\[edit]mod-gammabright-3.7-mc1.12.1.litemod' at revision 64.0000
+[00:02:16] [main/INFO]: Registering discovered mod files in folder C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\1.12.2
+[00:02:16] [main/INFO]: Mod file 'ChickenASM-1.12-1.0.2.7.jar' provides tweakClass 'codechicken.asm.internal.Tweaker', adding to Launch queue with priority 1000
+[00:02:16] [main/INFO]: Registering mixin config mixin.tabbychat.json for mod-tabbychat-2.3.4-mc1.12.2.litemod
+[00:02:16] [main/INFO]: Initialising LiteLoader Mixins
+[00:02:16] [main/INFO]: LiteLoader PREINIT complete
+[00:02:20] [main/INFO]: FML detected, switching to searge mappings
+[00:03:32] [main/INFO]: JInput Component Registry is initialising...
+[00:04:13] [main/INFO]: JInput Component Registry initialised, found 0 controller(s) 0 component(s)
+[00:04:13] [main/INFO]: LiteLoader begin INIT...
+[00:04:13] [main/INFO]: Baking listener list for CoreProvider with 2 listeners
+[00:04:13] [main/INFO]: Injecting external mods into class path...
+[00:04:13] [main/INFO]: Successfully injected mod file 'C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\1.12.2\[edit]mod-gammabright-3.7-mc1.12.1.litemod' into classpath
+[00:04:13] [main/INFO]: Injecting external mods into class path...
+[00:04:13] [main/INFO]: Discovering mods on class path...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\jars\NewLaunch.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\com\mojang\patchy\1.1\patchy-1.1.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\com\google\guava\guava\21.0\guava-21.0.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\com\mojang\realms\1.10.21\realms-1.10.21.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\net\minecraftforge\forge\1.12.2-14.23.4.2705\forge-1.12.2-14.23.4.2705-universal.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\ow2\asm\asm-all\5.2\asm-all-5.2.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\jline\jline\2.13\jline-2.13.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\com\mumfrey\liteloader\1.12.2-SNAPSHOT\liteloader-1.12.2-SNAPSHOT.jar...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\libraries\com\mojang\minecraft\1.12.2\minecraft-1.12.2-client.jar...
+[00:04:13] [main/INFO]: Discovering mods in valid mod files...
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\1.12.2\mod-tabbychat-2.3.4-mc1.12.2.litemod...
+[00:04:13] [main/INFO]: Found 2 potential matches
+[00:04:13] [main/INFO]: Searching C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\1.12.2\[edit]mod-gammabright-3.7-mc1.12.1.litemod...
+[00:04:13] [main/INFO]: Found 1 potential matches
+[00:04:13] [main/INFO]: Discovering mods in valid mod files...
+[00:04:13] [main/INFO]: Mod class discovery completed
+[00:04:13] [main/INFO]: LiteLoader begin POSTINIT...
+[00:04:13] [main/INFO]: Inhibiting sound handler reload
+[00:04:13] [main/INFO]: Registering interface provider com.mumfrey.liteloader.client.LiteLoaderEventBrokerClient for API LiteLoader core API
+[00:04:13] [main/INFO]: Registering interface provider com.mumfrey.liteloader.client.PacketEventsClient for API LiteLoader core API
+[00:04:13] [main/INFO]: Registering interface provider com.mumfrey.liteloader.client.ClientPluginChannelsClient for API LiteLoader core API
+[00:04:13] [main/INFO]: Registering interface provider com.mumfrey.liteloader.core.ServerPluginChannels for API LiteLoader core API
+[00:04:13] [main/INFO]: Registering interface provider com.mumfrey.liteloader.messaging.MessageBus for API LiteLoader core API
+[00:04:13] [main/INFO]: Discovered 3 total mod(s), injected 0 tweak(s)
+[00:04:13] [main/INFO]: Loading mod from mnm.mods.tabbychat.liteloader.LiteModTabbyChat
+[00:04:13] [main/INFO]: Baking listener list for ModLoadObserver with 1 listeners
+[00:04:13] [main/INFO]: Successfully added mod TabbyChat 2 version 2.3.4
+[00:04:13] [main/INFO]: Adding "C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\1.12.2\mod-tabbychat-2.3.4-mc1.12.2.litemod" to active resource pack set
+[00:04:13] [main/INFO]: Setting up "mod-tabbychat-2.3.4-mc1.12.2.litemod" as mod resource pack with identifier "TabbyChat 2"
+[00:04:13] [main/INFO]: Successfully added "C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\1.12.2\mod-tabbychat-2.3.4-mc1.12.2.litemod" to active resource pack set
+[00:04:13] [main/INFO]: Loading mod from mnm.mods.util.LiteModMnmUtils
+[00:04:13] [main/INFO]: Successfully added mod MnmUtils version 2.3.4
+[00:04:13] [main/INFO]: Adding "C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\1.12.2\mod-tabbychat-2.3.4-mc1.12.2.litemod" to active resource pack set
+[00:04:13] [main/INFO]: Loading mod from com.shadowhawk.gammabright.LiteModGammabright
+[00:04:13] [main/INFO]: Successfully added mod Gammabright version 3.7
+[00:04:13] [main/INFO]: Adding "C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\1.12.2\[edit]mod-gammabright-3.7-mc1.12.1.litemod" to active resource pack set
+[00:04:13] [main/INFO]: Setting up "[edit]mod-gammabright-3.7-mc1.12.1.litemod" as mod resource pack with identifier "Gammabright"
+[00:04:13] [main/INFO]: Successfully added "C:\Users\cyberpwn\Documents\development\multimc\instances\FTB Origins\.minecraft\mods\1.12.2\[edit]mod-gammabright-3.7-mc1.12.1.litemod" to active resource pack set
+[00:04:13] [main/INFO]: Initialising mod TabbyChat 2 version 2.3.4
+[00:04:14] [main/INFO]: Initialising mod MnmUtils version 2.3.4
+[00:04:14] [main/INFO]: Initialising mod Gammabright version 3.7
+[00:04:14] [main/INFO]: Baking listener list for InterfaceObserver with 0 listeners
+[00:05:03] [main/INFO]: Calling late init for mod TabbyChat 2
+[00:05:03] [main/INFO]: Baking listener list for ViewportListener with 0 listeners
+[00:05:03] [main/INFO]: Sound handler reload inhibit removed
+[00:05:03] [main/INFO]: Reloading sound handler
+[00:05:04] [main/INFO]: Baking listener list for GameLoopListener with 0 listeners
+[00:05:04] [main/INFO]: Baking listener list for RenderListener with 0 listeners
+[00:05:04] [main/INFO]: Baking listener list for TickObserver with 3 listeners
+[00:05:04] [main/INFO]: Baking listener list for PostRenderObserver with 3 listeners
+[00:05:05] [main/INFO]: Baking listener list for Tickable with 1 listeners
+[00:06:06] [main/INFO]: Baking listener list for ServerCommandProvider with 0 listeners
+[00:06:29] [Server thread/INFO]: Baking listener list for IEventState with 0 listeners
+[00:06:29] [Server thread/INFO]: Baking listener list for ServerTickable with 0 listeners
+[00:06:30] [Netty Server IO #1/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy
+[00:06:30] [Netty Server IO #1/INFO]: Successfully generated event handler proxy class with 124 handlers(s) and 124 total invocations
+[00:06:30] [Netty Local Client IO #0/INFO]: Baking listener list for PostLoginListener with 0 listeners
+[00:06:30] [Server thread/INFO]: Baking listener list for ServerPlayerListener with 0 listeners
+[00:06:30] [Server thread/INFO]: Baking listener list for IEventState with 1 listeners
+[00:06:31] [main/INFO]: Baking listener list for PreJoinGameListener with 0 listeners
+[00:06:34] [main/INFO]: Baking listener list for JoinGameListener with 1 listeners
+[00:06:34] [main/INFO]: Baking listener list for PreRenderListener with 0 listeners
+[00:06:34] [main/INFO]: Baking listener list for PostRenderListener with 0 listeners
+[00:06:34] [main/INFO]: Baking listener list for HUDRenderListener with 0 listeners
+[00:06:35] [main/INFO]: Baking listener list for WorldObserver with 2 listeners
+[00:06:35] [Server thread/INFO]: Baking listener list for PlayerMoveListener with 0 listeners
+[00:06:39] [main/INFO]: Baking listener list for EntityRenderListener with 0 listeners
+[00:06:54] [main/INFO]: Baking listener list for OutboundChatFilter with 0 listeners
+[00:06:54] [Server thread/INFO]: Baking listener list for ServerChatFilter with 0 listeners
+[00:06:54] [main/INFO]: Baking listener list for ChatListener with 0 listeners
+[00:08:07] [main/INFO]: Baking listener list for PlayerClickListener with 0 listeners
+[00:08:07] [Server thread/INFO]: Baking listener list for PlayerInteractionListener with 0 listeners
+[00:26:20] [main/INFO]: LiteLoader is shutting down, shutting down core providers and syncing configuration
+[00:26:20] [main/INFO]: Baking listener list for ShutdownObserver with 3 listeners

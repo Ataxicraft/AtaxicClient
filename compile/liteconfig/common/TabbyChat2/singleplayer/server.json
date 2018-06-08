@@ -1,0 +1,16 @@
+{
+  "general": {
+    "channelsEnabled": true,
+    "pmEnabled": true,
+    "channelPattern": "brackets",
+    "messegePattern": "whispers",
+    "useDefaultTab": true,
+    "ignoredChannels": [],
+    "defaultChannel": "",
+    "channelCommand": "",
+    "messageCommand": ""
+  },
+  "filters": [],
+  "channels": {},
+  "pms": {}
+}

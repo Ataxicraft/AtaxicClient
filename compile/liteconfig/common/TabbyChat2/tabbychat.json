@@ -1,0 +1,26 @@
+{
+  "general": {
+    "logChat": true,
+    "splitLog": true,
+    "timestampChat": false,
+    "timestampStyle": "militaryseconds",
+    "timestampColor": "white",
+    "antiSpam": false,
+    "antiSpamPrejudice": 0.0,
+    "unreadFlashing": true,
+    "checkUpdates": true
+  },
+  "advanced": {
+    "chatX": 2,
+    "chatY": 154,
+    "chatW": 300,
+    "chatH": 160,
+    "unfocHeight": 0.5,
+    "fadeTime": 200,
+    "historyLen": 100,
+    "hideTag": false,
+    "keepChatOpen": false,
+    "spelling": true,
+    "visibility": "normal"
+  }
+}
